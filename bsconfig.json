@@ -1,0 +1,17 @@
+{
+  "name": "bs-bull",
+  "version": "0.0.1",
+  "sources": [
+    "src",
+    {
+      "dir": "examples",
+      "public": []
+    }
+  ],
+  "suffix": ".bs.js",
+  "warnings": {
+    "error": "+101"
+  },
+  "namespace": true,
+  "refmt": 3
+}
